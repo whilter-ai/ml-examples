@@ -57,3 +57,6 @@ Pull requests are welcome! Let’s build something awesome together.
 
 More classical techniques and enhancements coming soon.  
 Give this repo a ⭐ if you find it useful!
+
+## Colab Notebook
+Regression - https://colab.research.google.com/drive/1D6iIZB6L_1HolyXCLvZJGzl5cXmjtaFv
