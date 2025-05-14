@@ -63,3 +63,5 @@ Regression - https://colab.research.google.com/drive/1D6iIZB6L_1HolyXCLvZJGzl5cX
 
 
 Classification - https://colab.research.google.com/drive/1V8cxgp85jKDCU5DRK51WpiT3nPyoq54G?usp=sharing
+
+Time Series - https://colab.research.google.com/drive/1lAzch524H0PDSHlJKCnvU5KYavJbnw-z?usp=sharing
