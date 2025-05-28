@@ -11,7 +11,7 @@ We dive into three essential ML techniques:
 
 ### 🔁 1. Regression  
 Predict continuous values – like housing prices, stock trends, and more.  
-Explore linear regression, polynomial regression, and regularization techniques like **Lasso & Ridge**.
+Explore linear regression, support vector regression, and regularization techniques like **Lasso & Ridge**.
 
 ### 🧠 2. Classification  
 Classify data into categories – like spam detection, sentiment analysis, etc.  
